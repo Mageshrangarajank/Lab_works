@@ -1,3 +1,2 @@
-This study focuses on the development of a steel surface defect detection algorithm based on CNN model. The research question addressed is how to enhance the accuracy of steel surface defect detection using deep learning model. The study concludes that using this model can significantly enhance the accuracy of steel surface defect detection and our project produced an accuracy rate of 98% at the end.
-
-NOTE: I used a previously available kaggle dataset (the link mentioned below). LINK:https://www.kaggle.com/datasets/fantacher/neu-metal-surface-defects-data
+This exercise was carried out to construct a Bayesian network with a joint probability, a Graphical representation of the Probability Distribution Function .
+Note: These programs carried in AI and Reasoning Lab with faculty guidance
